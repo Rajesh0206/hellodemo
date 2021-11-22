@@ -1,0 +1,6 @@
+projectKey=scan123
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=scan123
+ceTaskId=AX1GJge6XKbjz5J9-soj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX1GJge6XKbjz5J9-soj
